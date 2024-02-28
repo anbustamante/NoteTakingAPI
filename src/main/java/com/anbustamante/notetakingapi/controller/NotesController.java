@@ -1,6 +1,6 @@
 package com.anbustamante.notetakingapi.controller;
 
-import com.anbustamante.notetakingapi.model.Notes;
+import com.anbustamante.notetakingapi.dto.Notes;
 import com.anbustamante.notetakingapi.service.NotesService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

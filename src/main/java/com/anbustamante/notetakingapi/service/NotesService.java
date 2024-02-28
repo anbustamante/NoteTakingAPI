@@ -1,7 +1,7 @@
 package com.anbustamante.notetakingapi.service;
 
 import com.anbustamante.notetakingapi.dao.NotesDao;
-import com.anbustamante.notetakingapi.model.Notes;
+import com.anbustamante.notetakingapi.dto.Notes;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

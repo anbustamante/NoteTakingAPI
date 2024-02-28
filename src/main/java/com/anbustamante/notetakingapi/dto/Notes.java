@@ -1,4 +1,4 @@
-package com.anbustamante.notetakingapi.model;
+package com.anbustamante.notetakingapi.dto;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
